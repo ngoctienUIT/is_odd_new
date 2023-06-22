@@ -1,6 +1,6 @@
 name: is_odd_new
 description: Minimalist and elegant API that returns `true` if the given number or string is odd.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/ngoctienUIT/is_odd_new
 repository: https://github.com/ngoctienUIT/is_odd_new
 
