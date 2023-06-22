@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* TODO: initial package.
+
+## 0.0.2
+
+* TODO: Update package.

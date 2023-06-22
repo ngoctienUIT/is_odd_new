@@ -1,5 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
 import 'package:is_odd_new/is_odd_new.dart';
+import 'package:test/test.dart';
 
 void main() {
   test('adds one to input values', () {
